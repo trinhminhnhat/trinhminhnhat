@@ -1,5 +1,7 @@
 # 👋 Hi, I’m Trịnh Minh Nhật!
 
+![Profile views](https://komarev.com/ghpvc/?username=trinhminhnhat&color=1e96f0)
+
 🌱 I am a web developer. Working hard and helping other people in the team. Learning new languages and technologies is what I am passionate about.
 
 ## 💡 Programming Languages
@@ -18,9 +20,11 @@
 ![Nhat's github stats](https://github-readme-stats.vercel.app/api?username=trinhminhnhat&theme=default&show_icons=true&count_private=true)
 
 ## 🌐 Where To Find Me
-<a target="_blank" href="https://github.com/trinhminhnhat"/><img alt="GitHub" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/github.svg"></a>
-<a target="_blank" href="mailto:trinhmnhat@gmail.com"/><img alt="Gmail" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/gmail.svg"></a> <a target="_blank" href="https://www.linkedin.com/in/trinhminhnhat"/><img alt="LinkedIn" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/linkedin.svg"></a> <a target="_blank" href="https://twitter.com/nhattrinhminh"/><img alt="Twitter" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/twitter.svg"></a> <a target="_blank" href="https://dev.to/trinhminhnhat"/><img alt="DevTo" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/devto.svg"></a>
+Email: [trinhmnhat@gmail.com](mailto:trinhmnhat@gmail.com)
+
+[!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["Twitter"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/twitter.svg)](https://twitter.com/nhattrinhminh) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/devto.svg)](https://dev.to/trinhminhnhat)
 
 ## ❤ Support Me
-If you like my github page, please consider supporting me via [PayPal](https://paypal.me/trinhminhnhat){:target="_blank"} or buy me a [Coffee](https://www.buymeacoffee.com/trinhminhnhat){:target="_blank"} 🥰
-<div><a href="https://www.buymeacoffee.com/trinhminhnhat" target="_blank"><img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/buymeacoffee.webp" alt="Buy Me A Coffee" height="41" width="174"></a></div>
+If you like my github page, please consider supporting me via [PayPal](https://paypal.me/trinhminhnhat) or buy me a [Coffee](https://www.buymeacoffee.com/trinhminhnhat) 🥰
+
+[!["Buy Me A Coffee"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/buymeacoffee.webp)](https://www.buymeacoffee.com/trinhminhnhat)
