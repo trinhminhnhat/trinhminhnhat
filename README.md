@@ -22,5 +22,5 @@
 <a target="_blank" href="mailto:trinhmnhat@gmail.com"/><img alt="Gmail" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/gmail.svg"></a> <a target="_blank" href="https://www.linkedin.com/in/trinhminhnhat"/><img alt="LinkedIn" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/linkedin.svg"></a> <a target="_blank" href="https://twitter.com/nhattrinhminh"/><img alt="Twitter" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/twitter.svg"></a> <a target="_blank" href="https://dev.to/trinhminhnhat"/><img alt="DevTo" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/devto.svg"></a>
 
 ## ❤ Support Me
-If you like my github page, please consider supporting me via [PayPal](https://paypal.me/trinhminhnhat) or buy me a [Coffee](https://www.buymeacoffee.com/trinhminhnhat) 🥰
+If you like my github page, please consider supporting me via [PayPal](https://paypal.me/trinhminhnhat){:target="_blank"} or buy me a [Coffee](https://www.buymeacoffee.com/trinhminhnhat){:target="_blank"} 🥰
 <div><a href="https://www.buymeacoffee.com/trinhminhnhat" target="_blank"><img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/buymeacoffee.webp" alt="Buy Me A Coffee" height="41" width="174"></a></div>
