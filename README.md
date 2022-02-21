@@ -19,9 +19,7 @@
 ## ⚡ Github Stats
 ![Nhat's github stats](https://github-readme-stats.vercel.app/api?username=trinhminhnhat&theme=default&show_icons=true&count_private=true)
 
-## 🌐 Where To Find Me
-Email: [trinhmnhat@gmail.com](mailto:trinhmnhat@gmail.com)
-
+## 🌐 Connect With Me
 [!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["Twitter"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/twitter.svg)](https://twitter.com/nhattrinhminh) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/devto.svg)](https://dev.to/trinhminhnhat)
 
 ## ❤ Support Me
