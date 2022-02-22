@@ -16,13 +16,13 @@
 ## 🔒 Database Management Systems
 ![MySQL](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/mysql.svg) ![PostgresSQL](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/postgresql.svg)
 
-## ⚡ Github Stats
-![Nhat's github stats](https://github-readme-stats.vercel.app/api?username=trinhminhnhat&theme=default&show_icons=true&count_private=true)
+## ⚡ GitHub Stats
+![Nhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trinhminhnhat&theme=default&show_icons=true&count_private=true)
 
 ## 🌐 Connect With Me
-[!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["Twitter"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/twitter.svg)](https://twitter.com/nhattrinhminh) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/devto.svg)](https://dev.to/trinhminhnhat)
+[!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat?target=_blank) [!["Twitter"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/twitter.svg)](https://twitter.com/nhattrinhminh?target=_blank) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/devto.svg)](https://dev.to/trinhminhnhat?target=_blank)
 
 ## ❤ Support Me
-If you like my github page, please consider supporting me via [PayPal](https://paypal.me/trinhminhnhat) or buy me a [Coffee](https://www.buymeacoffee.com/trinhminhnhat) 🥰
+If you like my github page, please consider supporting me via [PayPal](https://paypal.me/trinhminhnhat?target=_blank) or buy me a [Coffee](https://www.buymeacoffee.com/trinhminhnhat?target=_blank) 🥰
 
-[!["Buy Me A Coffee"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/buymeacoffee.webp)](https://www.buymeacoffee.com/trinhminhnhat)
+[!["Buy Me A Coffee"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/buymeacoffee.webp)](https://www.buymeacoffee.com/trinhminhnhat?target=_blank)
