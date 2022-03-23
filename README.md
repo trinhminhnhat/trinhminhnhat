@@ -12,7 +12,7 @@
 
 ![Laravel](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/laravel.svg) ![React](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/react.svg) ![Next JS](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/nextjs.svg) ![jQuery](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/jquery.svg) ![Chart.js](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/chartjs.svg) ![SASS](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/sass.svg) ![Bootstrap](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/bootstrap.svg) ![TailwindCSS](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/tailwindcss.svg) ![Gulp](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/gulp.svg) ![NPM](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/npm.svg) ![Yarn](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/yarn.svg)
 
-## 🖍 Version Control
+## 🐳 Version Control
 
 ![Git](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/git.svg)
 
