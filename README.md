@@ -25,7 +25,7 @@
 <div align="left">
     <a href="https://github-readme-stats.vercel.app/api?username=trinhminhnhat&theme=default&show_icons=true&count_private=true">
         <img src="https://github-readme-stats.vercel.app/api?username=trinhminhnhat&theme=default&show_icons=true&count_private=true"
-        alt="Nhat's GitHub Stats" />
+        alt="Trịnh Minh Nhật's GitHub Stats" />
     </a>
     <a href="https://app.daily.dev/trinhminhnhat">
         <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/devcard.svg" width="280" align="right" alt="Trịnh Minh Nhật's Dev Card"/>
