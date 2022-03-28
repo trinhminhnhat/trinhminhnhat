@@ -2,9 +2,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=trinhminhnhat&color=1e96f0)
 
-⭐ I am a web developer. Working hard and helping other people in the team. Learning new languages and technologies is what I am passionate about.
+🌱 I am a web developer. Working hard and helping other people in the team. Learning new languages and technologies is what I am passionate about.
 
-## 📖 Programming Languages
+## 💡 Programming Languages
 
 ![HTML5](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/html.svg) ![CSS3](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/css.svg) ![JavaScript](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/javascript.svg) ![PHP](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/php.svg)
 
@@ -12,7 +12,7 @@
 
 ![Laravel](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/laravel.svg) ![React](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/react.svg) ![Next JS](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/nextjs.svg) ![jQuery](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/jquery.svg) ![Chart.js](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/chartjs.svg) ![SASS](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/sass.svg) ![Bootstrap](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/bootstrap.svg) ![TailwindCSS](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/tailwindcss.svg) ![Gulp](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/gulp.svg) ![NPM](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/npm.svg) ![Yarn](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/yarn.svg)
 
-## 🪄 Version Control
+## 🖋️ Version Control
 
 ![Git](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/git.svg)
 
