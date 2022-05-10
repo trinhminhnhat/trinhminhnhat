@@ -16,6 +16,9 @@ jobs:
         uses: dailydotdev/action-devcard@2.0.6
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
-          commit_branch: main
-          commit_filename: devcard.svg
-          commit_message: "Update ${filename}"
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update devcard.svg
+          branch: main
