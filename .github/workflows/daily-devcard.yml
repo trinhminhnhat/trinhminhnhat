@@ -25,3 +25,10 @@ jobs:
           commit_user_email: trinhmnhat@gmail.com
           commit_author: Trịnh Minh Nhật <trinhmnhat@gmail.com>
           branch: main
+      - name: Badges - Readme
+        uses: pemtajo/badge-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MESSAGE: "Update badges" # optional
+          CREDLY_SORT: POPULAR
+          NUMBER_LAST_BADGES: 5
