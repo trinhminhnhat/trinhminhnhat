@@ -11,22 +11,11 @@ on:
 jobs:
   devcard:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.6
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
           devcard_id: ${{ secrets.DEVCARD_ID }}
-      - uses: actions/upload-artifact@v3
-        with:
-          name: devcard.svg
-          path: devcard.svg
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: Update devcard.svg
-          commit_user_name: Trịnh Minh Nhật
-          commit_user_email: trinhmnhat@gmail.com
-          commit_author: Trịnh Minh Nhật <trinhmnhat@gmail.com>
-          branch: main
+          commit_message: "chore: update ${filename}"
