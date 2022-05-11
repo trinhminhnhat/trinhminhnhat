@@ -21,4 +21,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: Update devcard.svg
+          commit_user_name: Trịnh Minh Nhật
+          commit_user_email: trinhmnhat@gmail.com
+          commit_author: Trịnh Minh Nhật <trinhmnhat@gmail.com>
           branch: main
