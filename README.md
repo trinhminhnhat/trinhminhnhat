@@ -32,10 +32,6 @@
     </a>
 </div>
 
-## My badges
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 ## 🌏 Connect With Me
 
 [!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["Twitter"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/twitter.svg)](https://twitter.com/nhattrinhminh) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/images/icons/devto.svg)](https://dev.to/trinhminhnhat)
