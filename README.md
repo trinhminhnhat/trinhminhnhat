@@ -28,7 +28,7 @@
         alt="Trịnh Minh Nhật's GitHub Stats" />
     </a>
     <a href="https://app.daily.dev/trinhminhnhat">
-        <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/devcard.svg" width="280" align="right" alt="Trịnh Minh Nhật's Dev Card"/>
+        <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/master/devcard.png" width="280" align="right" alt="Trịnh Minh Nhật's Dev Card"/>
     </a>
 </div>
 
