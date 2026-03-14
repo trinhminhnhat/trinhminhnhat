@@ -64,5 +64,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "chore: daily profile update $(date -u '+%Y-%m-%d')"
+            git pull --rebase
             git push
           fi

@@ -41,7 +41,7 @@
 
 ## 🌏 Connect With Me
 
-[!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/devto.svg)](https://dev.to/trinhminhnhat) [!["Website"](https://img.shields.io/badge/trinhminhnhat.com-0e76a8?style=flat&logo=globe&logoColor=white)](https://trinhminhnhat.com)
+[!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/devto.svg)](https://dev.to/trinhminhnhat)
 
 ## 💗 Support Me
 
