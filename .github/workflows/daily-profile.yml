@@ -37,9 +37,12 @@ jobs:
           curl -sf "https://leetcard.jacoblin.cool/trinhminhnhat?theme=light&font=Karma&ext=heatmap" -o images/leetcode-stats.svg || echo "LeetCode card fetch failed, skipping"
 
       - name: Commit and Push
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           git config user.name "Trịnh Minh Nhật"
           git config user.email "trinhmnhat@gmail.com"
+          git remote set-url origin "https://x-access-token:${GH_PAT}@github.com/trinhminhnhat/trinhminhnhat.git"
           git add -A
           if git diff --cached --quiet; then
             echo "No changes to commit"
