@@ -1,0 +1,49 @@
+name: Daily Profile Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *"
+
+jobs:
+  update-profile:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: trinhminhnhat
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Fetch Quote
+        run: |
+          QUOTE_JSON=$(curl -sf "https://programming-quotesapi.vercel.app/api/random" || echo '{"quote":"Any fool can write code that a computer can understand. Good programmers write code that humans can understand.","author":"Martin Fowler"}')
+          QUOTE=$(echo "$QUOTE_JSON" | jq -r '.quote // .text // "Code is like humor. When you have to explain it, it is bad."')
+          AUTHOR=$(echo "$QUOTE_JSON" | jq -r '.author // "Unknown"')
+
+          sed -i '/<!-- QUOTE:START -->/,/<!-- QUOTE:END -->/c\<!-- QUOTE:START -->\n> _"'"${QUOTE//\"/\\\"}"'"_\n>\n> — **'"${AUTHOR}"'**\n<!-- QUOTE:END -->' README.md
+
+      - name: Fetch LeetCode Stats
+        run: |
+          curl -sf "https://leetcard.jacoblin.cool/trinhminhnhat?theme=light&font=Karma&ext=heatmap" -o images/leetcode-stats.svg || echo "LeetCode card fetch failed, skipping"
+
+      - name: Commit and Push
+        run: |
+          git config user.name "Trịnh Minh Nhật"
+          git config user.email "trinhmnhat@gmail.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily profile update $(date -u '+%Y-%m-%d')"
+            git push
+          fi
