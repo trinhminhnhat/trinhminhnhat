@@ -63,7 +63,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: daily profile update $(date -u '+%Y-%m-%d')"
+            git commit -m "chore: daily profile update $(date -u '+%Y-%m-%d') [skip ci]"
             git pull --rebase
             git push
           fi
