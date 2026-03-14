@@ -32,6 +32,12 @@
     </a>
 </div>
 
+## 📊 LeetCode Stats
+
+<div align="left">
+    <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/leetcode-stats.svg" alt="LeetCode Stats" />
+</div>
+
 ## 🐍 Contribution Snake
 
 <picture>
@@ -39,12 +45,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/dist/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/dist/github-snake.svg" />
 </picture>
-
-## 📊 LeetCode Stats
-
-<div align="left">
-    <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/leetcode-stats.svg" alt="LeetCode Stats" />
-</div>
 
 ## 💬 Quote of the Day
 
@@ -56,7 +56,7 @@
 
 ## 🌏 Connect With Me
 
-[!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["Twitter"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/twitter.svg)](https://twitter.com/nhattrinhminh) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/devto.svg)](https://dev.to/trinhminhnhat)
+[!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/devto.svg)](https://dev.to/trinhminhnhat)
 
 ## 💗 Support Me
 

@@ -9,9 +9,9 @@ This is a GitHub profile repository for [@trinhminhnhat](https://github.com/trin
 ## Repository Structure
 
 - `README.md` — GitHub profile page rendered on the user's GitHub profile. Uses raw GitHub URLs to reference icons in `images/icons/`.
-- `devcard.png` — Auto-updated daily by the `daily-devcard` workflow via the `dailydotdev/action-devcard` action.
+- `devcard.png` — Auto-updated by the `devcard` job in `daily-profile.yml`.
 - `images/icons/` — SVG/WebP badge icons referenced in `README.md` via absolute raw GitHub URLs (`https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/`).
-- `.github/workflows/daily-devcard.yml` — Runs daily at midnight UTC, on push to `main`, or manually. Commits an updated `devcard.png` using the `USER_ID` repository secret.
+- `.github/workflows/daily-profile.yml` — Runs daily at midnight UTC, on push to `main`, or manually. Has two jobs: `devcard` (updates `devcard.png` via `dailydotdev/action-devcard`) and `update-profile` (generates snake animation); `update-profile` depends on `devcard`. Requires `USER_ID` and `GH_PAT` secrets.
 - `.github/dependabot.yml` — Keeps GitHub Actions versions up to date (weekly schedule).
 
 ## Key Notes
