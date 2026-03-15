@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(echo:*)",
+      "WebFetch(domain:github.com)",
+      "Skill(claude-md-management:revise-claude-md)",
+      "Bash(git mv:*)"
+    ]
+  }
+}
