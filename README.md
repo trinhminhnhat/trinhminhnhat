@@ -8,14 +8,14 @@
 
 <table style="border: none;">
   <tr>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <a href="https://github-readme-stats.vercel.app/api?username=trinhminhnhat&theme=default&show_icons=true&count_private=true">
         <img src="https://github-readme-stats.vercel.app/api?username=trinhminhnhat&theme=default&show_icons=true&count_private=true" alt="Trịnh Minh Nhật's GitHub Stats" style="margin-bottom: 12px;" />
       </a>
       <br/>
       <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/leetcode-stats.svg" alt="LeetCode Stats" />
     </td>
-    <td valign="top">
+    <td valign="top" style="border: none;">
       <a href="https://app.daily.dev/trinhminhnhat">
         <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/devcard.png" width="280" alt="Trịnh Minh Nhật's Dev Card"/>
       </a>
