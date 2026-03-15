@@ -15,9 +15,9 @@
       <br/>
       <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/leetcode-stats.svg" alt="LeetCode Stats" />
     </td>
-    <td valign="top">
+    <**td** valign="top">
       <a href="https://app.daily.dev/trinhminhnhat">
-        <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/devcard.png" width="280" alt="Trịnh Minh Nhật's Dev Card"/>
+        <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/devcard.png" width="280" alt="Trịnh Minh Nhật's Dev Card"/>
       </a>
     </td>
   </tr>
@@ -26,9 +26,8 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/github-snake.svg" />
 </picture>
 
 ## 💬 Quote of the Day
@@ -47,4 +46,4 @@
 
 If you like my github page, please consider supporting me via [PayPal](https://paypal.me/trinhminhnhat) or buy me a [Coffee](https://www.buymeacoffee.com/trinhminhnhat) 🥰
 
-[!["Buy Me A Coffee"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/buymeacoffee.webp)](https://www.buymeacoffee.com/trinhminhnhat)
+[!["Buy Me A Coffee"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/buymeacoffee.webp)](https://www.buymeacoffee.com/trinhminhnhat)
