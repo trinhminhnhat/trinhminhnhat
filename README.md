@@ -26,9 +26,8 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/dist/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/github-snake.svg" />
 </picture>
 
 ## 💬 Quote of the Day
@@ -41,10 +40,10 @@
 
 ## 🌏 Connect With Me
 
-[!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/devto.svg)](https://dev.to/trinhminhnhat)
+[!["LinkedIn"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/linkedin.svg)](https://www.linkedin.com/in/trinhminhnhat) [!["DevTo"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/devto.svg)](https://dev.to/trinhminhnhat)
 
 ## 💗 Support Me
 
 If you like my github page, please consider supporting me via [PayPal](https://paypal.me/trinhminhnhat) or buy me a [Coffee](https://www.buymeacoffee.com/trinhminhnhat) 🥰
 
-[!["Buy Me A Coffee"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/icons/buymeacoffee.webp)](https://www.buymeacoffee.com/trinhminhnhat)
+[!["Buy Me A Coffee"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/buymeacoffee.webp)](https://www.buymeacoffee.com/trinhminhnhat)
