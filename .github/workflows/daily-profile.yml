@@ -32,10 +32,6 @@ jobs:
           token: ${{ secrets.GH_PAT }}
           ref: main
 
-      - name: Move DevCard to images/
-        run: |
-          [ -f devcard.png ] && git mv devcard.png images/devcard.png || true
-
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
