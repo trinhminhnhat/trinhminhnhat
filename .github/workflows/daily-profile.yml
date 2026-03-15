@@ -19,7 +19,6 @@ jobs:
         with:
           user_id: ${{ secrets.USER_ID }}
           commit_message: "chore: update ${filename}"
-          output: images/devcard.png
 
   update-profile:
     runs-on: ubuntu-latest
@@ -32,6 +31,10 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
           ref: main
+
+      - name: Move DevCard to images/
+        run: |
+          [ -f devcard.png ] && git mv devcard.png images/devcard.png || true
 
       - name: Generate Snake
         uses: Platane/snk@v3
