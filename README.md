@@ -6,7 +6,7 @@
 
 ## 📊 My Stats
 
-<table style="border: none;">
+<table border="0">
   <tr>
     <td valign="top" style="border: none;">
       <a href="https://github-readme-stats.vercel.app/api?username=trinhminhnhat&theme=default&show_icons=true&count_private=true">
