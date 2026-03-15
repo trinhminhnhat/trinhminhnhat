@@ -16,7 +16,9 @@
       <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/leetcode-stats.svg" alt="LeetCode Stats" />
     </td>
     <td valign="top">
-
+      <a href="https://app.daily.dev/trinhminhnhat">
+        <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/devcard.png" width="280" alt="Trịnh Minh Nhật's Dev Card"/>
+      </a>
     </td>
   </tr>
 </table>
@@ -44,6 +46,4 @@
 
 If you like my github page, please consider supporting me via [PayPal](https://paypal.me/trinhminhnhat) or buy me a [Coffee](https://www.buymeacoffee.com/trinhminhnhat) 🥰
 
-[!["Buy Me A Coffee"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/buymeacoffee      <a href="https://app.daily.dev/trinhminhnhat">
-        <img src="https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/devcard.png" width="280" alt="Trịnh Minh Nhật's Dev Card"/>
-      </a>.webp)](https://www.buymeacoffee.com/trinhminhnhat)
+[!["Buy Me A Coffee"](https://raw.githubusercontent.com/trinhminhnhat/trinhminhnhat/main/images/buymeacoffee.webp)](https://www.buymeacoffee.com/trinhminhnhat)
